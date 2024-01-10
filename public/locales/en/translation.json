@@ -22,5 +22,8 @@
   "Выйти": "Logout",
   "Укажите валюту": "Choose currency",
   "Укажите страну": "Choose country",
-  "Профиль": "Profile"
+  "Профиль": "Profile",
+  "article_details": "Article Details",
+  "Article not found": "Article not found",
+  "error": "Something went wrong"
 }
